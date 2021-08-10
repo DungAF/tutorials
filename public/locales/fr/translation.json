@@ -1,0 +1,23 @@
+{
+    "Welcome_to_React": "this is france language",
+    "Tutorials_List" : "チュートリアルリスト",
+    "Title(job_title)" : "タイトル",
+    "Description" : "説明",
+    "Status" : "状態",
+    "Action" : "アクション",
+    "Add_Tutorial": "チュートリアルの追加",
+    "Title" : "タイトル",
+    "Submit" : "送信",
+    "UnPublish" : "非公開",
+    "Publish" : "公開",
+    "Print_pdf" : "PDFを印刷する",
+    "Detail" : "詳細",
+    "Delete" : "消去",
+    "Update" : "アップデート",
+    "language" : "言語",
+    "enter_a_title" : "タイトルで検索",
+    "Search" : "検索",
+    "React_Tutorials" : "Reactチュートリアル",
+    "Sign_Out" : "ログアウト"
+    
+}

@@ -1,0 +1,22 @@
+{
+    "Welcome_to_React": "this is enlish language",
+    "Tutorials_List" : "Tutorials List",
+    "Title(job_title)" : "Title (job title)",
+    "Description" : "Description",
+    "Status" : "Status",
+    "Action" : "Action",
+    "Add_Tutorial": "Add Tutorial",
+    "Title" : "Title",
+    "Submit" : "Submit",
+    "Print_pdf" : "Print_pdf",
+    "Detail" : "Detail",
+    "Delete" : "Delete",
+    "Published" : "Published",
+    "UnPublish" : "UnPublish",
+    "Update" : "Update",
+    "language" : "Language",
+    "enter_a_title" : "search by title",
+    "Search" : "Search",
+    "React_Tutorials" : "React Tutorials",
+    "Sign_Out" : "Log out"
+}
